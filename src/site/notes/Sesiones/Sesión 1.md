@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/sesiones/sesion-1/","tags":["sesión"]}
+---
+
+Fecha: 22/01/2026
+Presentes:
++ Nani
++ Dani
++ Gius
++ Erik
++ Omar
+
+### Escenas
++ [[Personajes/PJ/Hesheng\|Hesheng]] llega a [[Poblado de Saltmarsh/Lugares/Saltmarsh\|Saltmarsh]] en carreta desde el norte y vaga por los barrios bajos de la ciudad sin hacer nada, donde se encuentra a un [[Personajes/NPC/Saltmarsh/Whiskers\|misterioso hombre pelirrojo]], que ignora. 
++ [[Personajes/PJ/Lucius\|Lucius]] llega en un barco mercante desde [[Ciudades/Neverwinter\|Neverwinter]] siguiendo órdenes de [[Personajes/NPC/Extranjeros/Muy lejos/Dagult Neverember\|Dagult Neverember]], buscando a [[Personajes/NPC/NPC de Facciones/Lealistas/Eliander Fireborn\|Eliander]], por lo que va a preguntar a la [[Poblado de Saltmarsh/Lugares/Casa Solmor\|Casa Solmor]].  Ahí habla con [[Personajes/NPC/NPC de Facciones/Hermandad Escarlata/Skerrin Wavechaser\|Skerrin]], que lo guía a la [[Poblado de Saltmarsh/Lugares/Torre Hoolwatch\|Torre Hoolwatch]]. 
++ [[Personajes/PJ/Nere\|Nere]] llega en el bote de remos viejo de sus tíos a la calera cerca del mercado, donde vende el bote y busca donde alojarse. Uno de los mercadores le indica [[Poblado de Saltmarsh/Lugares/La Red Vacía\|La Red Vacía]]. 
++ [[Personajes/PJ/Viran\|Viran]] se encuentra en el [[Poblado de Saltmarsh/Lugares/Cuartel y Cárcel de Saltmarsh\|Cuartel y Cárcel de Saltmarsh]], en los barracones, lugar donde escucha a sus compañeros de la [[Poblado de Saltmarsh/Entidades/Guardia de Saltmarsh\|Guardia de Saltmarsh]] hablar sobre una [[Poblado de Saltmarsh/Afueras de Saltmarsh/Casa Abandonada\|Casa Abandonada]] de la que se escuchan extraños ruidos en la noche, les pide más información y le dicen que vaya a hablar con [[Personajes/NPC/Saltmarsh/Kraddok Stonehorn\|Kraddok]], el cárcelero.
++ [[Personajes/PJ/Viran\|Viran]] va a hablar con [[Personajes/NPC/Saltmarsh/Kraddok Stonehorn\|Kraddok]], el que le habla sobre la casa abandonada y que [[Personajes/NPC/NPC de Facciones/Lealistas/Eliander Fireborn\|Eliander]] es quién tiene más información.
++ [[Personajes/PJ/Nere\|Nere]] encuentra a [[Personajes/PJ/Hesheng\|Hesheng]] a la afueras de [[Poblado de Saltmarsh/Lugares/La Red Vacía\|La Red Vacía]], comparten una incómoda conversación y entran a la taberna.
++ [[Personajes/PJ/Nere\|Nere]] "arrienda" una habitación pagando un precio infladísimo, y [[Personajes/PJ/Hesheng\|Hesheng]] pierde dinero apostando. Ambos escuchan que pueden ganar dinero vendiendo cuero en [[Poblado de Saltmarsh/Lugares/Guarnicionería de Kester\|Guarnicionería de Kester]] y madera en la [[Poblado de Saltmarsh/Lugares/Sede del Gremio de Carpinteros\|Sede del Gremio de Carpinteros]].
++ [[Personajes/PJ/Lucius\|Lucius]] y [[Personajes/PJ/Viran\|Viran]] se encuentran en las puertas de la [[Poblado de Saltmarsh/Lugares/Torre Hoolwatch\|Torre Hoolwatch]]. Ven el tablón de anuncios y les llama la atención que hablan de robos de comida en el [[Poblado de Saltmarsh/Lugares/Templo de Valkur\|Templo de Valkur]]. [[Personajes/PJ/Lucius\|Lucius]] le enseña sus órdenes y [[Personajes/PJ/Viran\|Viran]] lo escolta hasta [[Personajes/NPC/NPC de Facciones/Lealistas/Eliander Fireborn\|Eliander]]. El capitán de la guardia le habla a [[Personajes/PJ/Lucius\|Lucius]] sobre el problema con los [[Rubros/Contrabando\|contrabandistas]], y lo preocupado que está de los [[Facciones/Principados del Mar\|Principados del Mar]]. [[Personajes/PJ/Viran\|Viran]] queda al mando de [[Personajes/PJ/Lucius\|Lucius]] y ambos salen de la [[Poblado de Saltmarsh/Lugares/Torre Hoolwatch\|torre]].
++ [[Personajes/PJ/Nere\|Nere]], interesado en el trabajo del cuero, se dirige a la [[Poblado de Saltmarsh/Lugares/Guarnicionería de Kester\|Guarnicionería de Kester]], dónde encuentra a [[Personajes/PJ/Viran\|Viran]] y [[Personajes/PJ/Lucius\|Lucius]] por el camino, ya que están al lado de la [[Poblado de Saltmarsh/Lugares/Torre Hoolwatch\|Torre Hoolwatch]]. Ofrece sus servicios como guerrero y aceptan.
++ [[Personajes/PJ/Hesheng\|Hesheng]] ve al grupo desde lejos y decide seguirlos.
++ En los [[Poblado de Saltmarsh/Lugares/Muelles\|Muelles]], ven que un [[Personajes/NPC/Saltmarsh/Whiskers\|misterioso hombre pelirrojo]] es echado de un almacén. Lo ignoran y prefieren hablar con los maleantes que lo echaron. Como [[Personajes/PJ/Hesheng\|Hesheng]] escuchó todo, la obligan a entrar al almacén junto a los demás. La conversación derivó en una pelea, de la que pudieron salir victoriosos, con dificultades. El almacén resultaba ser un escondite de [[Rubros/Contrabando\|contrabandistas]], donde guardaban muchas armas. [[Personajes/PJ/Lucius\|Lucius]] consigue una nota que cita a los criminales a la [[Poblado de Saltmarsh/Afueras de Saltmarsh/Casa Abandonada\|Casa Abandonada]] a la medianoche del otro día. Le informan de la operación a [[Personajes/NPC/NPC de Facciones/Lealistas/Eliander Fireborn\|Eliander]] que los recompensa con 100 piezas de oro como grupo.

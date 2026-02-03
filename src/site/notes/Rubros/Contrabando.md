@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/rubros/contrabando/","tags":["actividad"]}
+---
+
+Al estar lejos del ojo de las autoridades del continente, [[Poblado de Saltmarsh/Lugares/Saltmarsh\|Saltmarsh]] ha sido durante mucho tiempo el lugar ideal del mercado de productos ilegales. [[Rubros/Piratería\|Piratas,]] agentes de los [[Facciones/Principados del Mar\|Principados del Mar]] y algunos nobles buscando evitar la paga de impuestos han ayudado  a que este tipo de comercio florezca. Algunos barcos [[Rubros/Pescadores\|pesqueros]] se encuentran en mitad del mar con otras embarcaciones para cargar y descargar mercancía oculta, mientras otras bandas hacen lo propio en lugares aislados a lo largo de la costa. En general los lugareños ven el contrabando como un crimen sin víctimas y les molesta la energética insistencia de los [[Facciones/Alianza de los Lores\|Lores]] por tomar medidas contra este.
