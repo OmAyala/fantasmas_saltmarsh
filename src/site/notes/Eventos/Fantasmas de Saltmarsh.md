@@ -3,7 +3,8 @@
 ---
 
 
-Notas para mi versión de la Aventura oficial ***Fantasmas de Saltmarsh 
+Notas para mi versión de la Aventura oficial ***Fantasmas de Saltmarsh***
+
  
 ![0DJ_Szn6Q_EgBUYqnGHNAvylcsUPAUc5bI-Loc2FIgU.jpg](/img/user/Im%C3%A1genes/0DJ_Szn6Q_EgBUYqnGHNAvylcsUPAUc5bI-Loc2FIgU.jpg)
 
