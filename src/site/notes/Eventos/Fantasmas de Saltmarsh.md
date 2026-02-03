@@ -25,7 +25,8 @@ La campaña sucede en el poblado de [[Poblado de Saltmarsh/Lugares/Saltmarsh\|Sa
 | Gius      | [[Personajes/PJ/Lucius\|Lucius]]  | [[Razas/Humano\|Humano]]    | Hechicero |
 | Dani      | [[Personajes/PJ/Nere\|Nere]]    | [[Razas/Drow\|Drow]]      | Guerrero  |
 | Erik      | [[Personajes/PJ/Hesheng\|Hesheng]] | [[Razas/Semielfo\|Semielfo]]  | Bardo     |
-
+## **Dungeon Master**
+ El mismísimo ***Don Omar***
 # Sesiones
 
 + [[Sesiones/Sesión 0\|Sesión 0]] (15/01/2026)
