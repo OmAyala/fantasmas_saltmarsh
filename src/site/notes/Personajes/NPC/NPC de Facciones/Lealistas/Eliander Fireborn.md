@@ -9,3 +9,5 @@ Prudente, leal a la [[Facciones/Alianza de los Lores\|Alianza]], disciplinado, u
 Pasa el día en la [[Poblado de Saltmarsh/Lugares/Torre Hoolwatch\|Torre Hoolwatch]], o en su [[Poblado de Saltmarsh/Lugares/Casa de Eliander\|casa]].
 
 Ofrece trabajo como guardias.
+
+![Gladiador.png](/img/user/Im%C3%A1genes/Statblocks/Gladiador.png)

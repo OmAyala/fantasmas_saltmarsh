@@ -10,3 +10,5 @@ Es una celebridad en [[Poblado de Saltmarsh/Lugares/Saltmarsh\|Saltmarsh]] ya qu
 [[Personajes/NPC/NPC de Facciones/Neutral/Anders Solmor\|Anders]] siempre está atento a nuevos negocios en los muelles, o en su [[Poblado de Saltmarsh/Lugares/Casa Solmor\|casa]].
 
 Ofrece trabajos como estibadores.
+
+![Noble.png](/img/user/Im%C3%A1genes/Statblocks/Noble.png)

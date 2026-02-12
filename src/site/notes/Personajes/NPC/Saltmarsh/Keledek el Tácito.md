@@ -7,3 +7,7 @@ Mago [[Razas/Humano\|Humano]], con su propia [[Poblado de Saltmarsh/Lugares/Torr
 Tiene un diablillo llamado Zivmal, que vigila su [[Poblado de Saltmarsh/Lugares/Torre de Keledek\|torre]].
 
 Socio de confianza de  [[Personajes/NPC/NPC de Facciones/Conservadores/Gelland Primewater\|Gelland Primewater]], ayuda a [[Rubros/Contrabando\|contrabandistas]]  en la [[Poblado de Saltmarsh/Afueras de Saltmarsh/Torre de Zenopus\|Torre de Zenopus]] a cambio de materiales y componentes para hechizos y objetos mágicos.
+
+![Mago.png](/img/user/Im%C3%A1genes/Statblocks/Mago.png)
+
+![Diablillo.png](/img/user/Im%C3%A1genes/Statblocks/Diablillo.png)

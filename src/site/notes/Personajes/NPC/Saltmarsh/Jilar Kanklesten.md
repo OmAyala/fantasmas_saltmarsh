@@ -3,3 +3,6 @@
 ---
 
 [[Razas/Gnomos\|Gnoma]] que dirige la [[Poblado de Saltmarsh/Lugares/Sede del Gremio de Carpinteros\|Sede del Gremio de Carpinteros]]. Obsesionada por las maderas exóticas, paga bien por que le consigan extravagancias.
+
+![Plebeyo1.png](/img/user/Im%C3%A1genes/Statblocks/Plebeyo1.png)
+![Plebeyo2.png](/img/user/Im%C3%A1genes/Statblocks/Plebeyo2.png)

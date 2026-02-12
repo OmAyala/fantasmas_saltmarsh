@@ -9,3 +9,6 @@ Tiene una buena amistad con [[Personajes/NPC/NPC de Facciones/Lealistas/Eliander
 Evita tomar partido en el conflicto político aunque puede que tenga que tomar algún lado si se descubre quién es en realidad.
 
 Ofrece trabajos como mercenarios, ya sea como guardias o guardaespaldas principalmente, a pie, de caravanas o en barco.
+
+![Gladiador.png](/img/user/Im%C3%A1genes/Statblocks/Gladiador.png)
+

@@ -9,3 +9,5 @@ Iracunda, mandona, con poca paciencia, pero inteligente, implacable y leal con l
 Pasa los días en la [[Poblado de Saltmarsh/Lugares/Compañía Minera\|Compañía Minera]] o en [[Poblado de Saltmarsh/Lugares/La Cabra de Mimbre\|La Cabra de Mimbre]], dependiendo la hora y el día.
 
 Ofrece trabajo como mineros.
+
+![Veterano.png](/img/user/Im%C3%A1genes/Statblocks/Veterano.png)

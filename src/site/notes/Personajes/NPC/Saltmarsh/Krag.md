@@ -6,3 +6,6 @@ Es el sepulturero del [[Poblado de Saltmarsh/Lugares/Cementerio de Saltmarsh\|Ce
 Recauda información sobre los muertos para conservar la historia del poblado, por lo que es buena fuente de información como comprador de aquella.
 
 Ofrece trabajo como investigadores y ordenando la biblioteca.
+
+![Plebeyo1.png](/img/user/Im%C3%A1genes/Statblocks/Plebeyo1.png)
+![Plebeyo2.png](/img/user/Im%C3%A1genes/Statblocks/Plebeyo2.png)

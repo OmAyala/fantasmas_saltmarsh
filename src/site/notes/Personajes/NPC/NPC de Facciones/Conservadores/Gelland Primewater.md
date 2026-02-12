@@ -11,3 +11,5 @@ Es un dandi elegante, mecenas de las artes y le encanta la buena vida. Le import
 Pasa el día en su [[Poblado de Saltmarsh/Lugares/Mansión Primewater\|mansión]], desde la que da órdenes a los barcos del [[Poblado de Saltmarsh/Lugares/Muelles\|muelle]]. Su amigo [[Personajes/NPC/Saltmarsh/Kreb Shenker\|Kreb]] de [[Poblado de Saltmarsh/Lugares/La Red Vacía\|La Red Vacía]] le otorga contactos frecuentemente.
 
 Ofrece trabajos como contrabandistas.
+
+![Noble.png](/img/user/Im%C3%A1genes/Statblocks/Noble.png)

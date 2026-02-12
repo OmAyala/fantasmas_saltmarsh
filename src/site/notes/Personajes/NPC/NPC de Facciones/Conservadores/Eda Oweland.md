@@ -10,3 +10,5 @@ Es una mujer brusca y pragmática, que siempre defiende y ayuda a los pobladores
 Casi siempre está en su [[Poblado de Saltmarsh/Lugares/Casa Oweland\|casa]], o rondando el pueblo ayudando y escuchando rumores.
 
 Ofrece trabajo como pescadores.
+
+![Noble.png](/img/user/Im%C3%A1genes/Statblocks/Noble.png)
