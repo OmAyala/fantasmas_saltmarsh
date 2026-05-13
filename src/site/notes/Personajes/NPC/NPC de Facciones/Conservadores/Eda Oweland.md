@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personajes/npc/npc-de-facciones/conservadores/eda-oweland/","tags":["NPC","Conservador"]}
 ---
 
-[[Razas/Humano\|Humana]] anciana, veterana del [[Poblado de Saltmarsh/Entidades/Consejo de Saltmarsh\|Consejo de Saltmarsh]]. Ha vivido toda su vida en [[Poblado de Saltmarsh/Lugares/Saltmarsh\|Saltmarsh]]. Está interesada en expandir la industria [[Rubros/Pescadores\|pesquera]] en el poblado, construyendo un nuevo puerto. Sospecha de los [[Rubros/Minería\|mineros]]. Es parte de los [[Facciones/Conservadores\|Conservadores]].
+[[Razas/Humano\|Humana]] anciana, veterana del [[Poblado de Saltmarsh/Entidades/Consejo de Saltmarsh\|Consejo de Saltmarsh]]. Ha vivido toda su vida en [[Poblado de Saltmarsh/Lugares/Saltmarsh\|Saltmarsh]]. Está interesada en expandir la industria [[Rubros/Pescadores\|pesquera]] en el poblado, construyendo un nuevo puerto. Sospecha de los [[Rubros/Minería\|mineros]]. Es parte de los [[Facciones/Conservadores\|Conservadores]]. Es prima de [[Personajes/PJ/Kírdan Oweland\|Kírdan]] y solía juntarse con [[Personajes/NPC/Saltmarsh/Tíos de Nere\| la tía de Nere]].
 
 
 Es una mujer brusca y pragmática, que siempre defiende y ayuda a los pobladores. No le gustan los extranjeros, pero confía rápido.

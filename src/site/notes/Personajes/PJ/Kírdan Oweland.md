@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/personajes/pj/kirdan-oweland/","tags":["PJ"]}
+---
+
+Personaje de Ester, [[Razas/Semielfo\|Semielfo]] Explorador. Oriundo de [[Poblado de Saltmarsh/Lugares/Saltmarsh\|Saltmarsh]], es primo de [[Personajes/NPC/NPC de Facciones/Conservadores/Eda Oweland\|Eda]], y un hábil [[Rubros/Pescadores\|pescador]]. Es hijo de [[Personajes/NPC/Saltmarsh/Otto Oweland\|Otto Oweland]], tío de Eda, y [[Personajes/NPC/Extranjeros/Cerca/Nengelil\|Nengelil]], una [[Razas/Elfos del mar\|elfa del mar]] de la [[Facciones/Tribu de Manaan\|Tribu de Manaan]].
+
+Otto era un famoso pescador aventurero que se enamoró de una elfo en uno de sus viajes. Cada vez hacía viajes más largos, hasta que un día no volvió más. Sin embargo, en su lugar llegó un semielfo bebé a Saltmarsh con el anillo que reconocía a Otto y una carta que decía: "Este es Kírdan, hijo de Otto Oweland a quien ustedes conocieron bien. Su padre murió por defenderlo y ya no puedo protegerlo. Como madre desesperada, les suplico que cuiden de él", junto con una firma semejante al Viento del Este. Los padres de Eda lo acogieron, y cuando tuvo la mayoría de edad humana se embarcó siguiendo el llamado del mar, como su padre. Ha tenido muchas aventuras a lo largo de 40 años; no obstante, siempre regresaba a Saltmarsh, puesto que su corazón estaba ligado a ese lugar que lo acogió en su niñez, al cual verdaderamente podía llamar hogar, a pesar de todo el tiempo que estuviera lejos.
+
+Una compañera de aventuras común era [[Personajes/NPC/Saltmarsh/Leah Hoodpeak\|Leah Hoodpeak]], con la cual solía adentrarse en bote a explorar la costa, o la [[Poblado de Saltmarsh/Afueras de Saltmarsh/Pantano de los Hombres Muertos\|Ciénaga de los Hombres muertos]], sin embargo, al ser una humana, la edad le está pasando la cuenta y está queriendo vivir la última aventura junto con Kírdan antes de retirarse para vivir junto a su familia y criara sus nietos.

@@ -19,12 +19,13 @@ La campaña sucede en el poblado de [[Poblado de Saltmarsh/Lugares/Saltmarsh\|Sa
 
 [[Eventos/Relaciones Party.canvas\|Relaciones Party.canvas]]
 
-| Jugadores | Personaje   | Raza          | Clase     |
-| --------- | ----------- | ------------- | --------- |
-| Nani      | [[Personajes/PJ/Viran\|Viran]]   | [[Razas/Githyanki\|Githyanki]] | Bárbaro   |
-| Gius      | [[Personajes/PJ/Lucius\|Lucius]]  | [[Razas/Humano\|Humano]]    | Hechicero |
-| Dani      | [[Personajes/PJ/Nere\|Nere]]    | [[Razas/Drow\|Drow]]      | Guerrero  |
-| Erik      | [[Personajes/PJ/Hesheng\|Hesheng]] | [[Razas/Semielfo\|Semielfo]]  | Bardo     |
+| Jugadores | Personaje       | Raza             | Clase      |
+| --------- | --------------- | ---------------- | ---------- |
+| Nani      | [[Personajes/PJ/Viran\|Viran]]       | [[Razas/Githyanki\|Githyanki]]    | Bárbaro    |
+| Gius      | [[Personajes/PJ/Lucius\|Lucius]]      | [[Razas/Humano\|Humano]]       | Hechicero  |
+| Dani      | [[Personajes/PJ/Nere\|Nere]]        | [[Razas/Drow\|Drow]]         | Guerrero   |
+| Ester     | [[Personajes/PJ/Kírdan Oweland\|Kírdan Oweland]]      | [[Razas/Semielfo\|Semielfo]]     | Explorador |
+| ~~Erik~~  | ~~[[Personajes/PJ/Hesheng\|Hesheng]]~~ | ~~[[Razas/Semielfo\|Semielfo]]~~ | ~~Bardo~~  |
 ## **Dungeon Master**
  El mismísimo ***Don Omar***
 # Sesiones
