@@ -12,12 +12,12 @@ La campaña sucede en el poblado de [[Poblado de Saltmarsh/Lugares/Saltmarsh\|Sa
 
 # Situación Política
 
-[[Situación Política.png]]
+![Situación Política.png](/img/user/Eventos/Situaci%C3%B3n%20Pol%C3%ADtica.png)
 
 
 # Jugadores
 
-[[Relaciones Party.png]]
+![Relaciones Party.png](/img/user/Eventos/Relaciones%20Party.png)
 
 
 | Jugadores | Personaje       | Raza             | Clase      |
