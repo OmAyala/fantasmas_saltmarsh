@@ -12,12 +12,13 @@ La campaña sucede en el poblado de [[Poblado de Saltmarsh/Lugares/Saltmarsh\|Sa
 
 # Situación Política
 
-[[Eventos/Situación Política.canvas\|Situación Política.canvas]]
+[[Situación Política.png]]
 
 
 # Jugadores
 
-[[Eventos/Relaciones Party.canvas\|Relaciones Party.canvas]]
+[[Relaciones Party.png]]
+
 
 | Jugadores | Personaje       | Raza             | Clase      |
 | --------- | --------------- | ---------------- | ---------- |
@@ -33,6 +34,10 @@ La campaña sucede en el poblado de [[Poblado de Saltmarsh/Lugares/Saltmarsh\|Sa
 + [[Sesiones/Sesión 0\|Sesión 0]] (15/01/2026)
 + [[Sesiones/Sesión 1\|Sesión 1]] (22/01/2026)
 + [[Sesiones/Sesión 2\|Sesión 2]] (29/01/2026)
++ [[Sesiones/Sesiones 3, 4\|Sesiones 3, 4]] (5 y 12 /02/2026)
++ [[Sesiones/Sesión 5\|Sesión 5]] (14/05/2026)
++ [[Sesión 6\|Sesión 6]] (21/05/2026)
++ 
 
 
 
